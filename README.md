@@ -1,6 +1,6 @@
-# Ar Sullivan Santana
+# Ar Sullivan Santana Najera
 
-### Data Analyst | Data Science Graduate Student | IT Metrics & Predictive Analytics
+## Data Analyst | Data Science Graduate Student | IT Metrics & Predictive Analytics
 
 I am a data-driven professional specializing in **IT operations analytics, predictive modeling, and interactive data visualization**. With a background in **Industrial Engineering and Data Science**, I focus on transforming operational data into actionable insights that improve **service performance, forecasting accuracy, and decision-making**.
 
