@@ -79,6 +79,7 @@ A playful R/Shiny visualization tool that replaces traditional boxplot outliers 
 
 **MSc in Data Science and Information**
 INFOTEC – Mexico (In progress)
+[Badge](https://posgrados.infotec.mx/alumnado/estatus/credencial/23A4553A18)
 
 **BSc in Industrial Engineering**
 Tecnológico Nacional de México
