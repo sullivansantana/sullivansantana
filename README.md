@@ -71,6 +71,7 @@ An interactive R/Shiny application that allows engineers and analysts to upload 
 
 **CheemsPlot – Interactive Dog-Styled Boxplot Explorer**
 A playful R/Shiny visualization tool that replaces traditional boxplot outliers with **customizable Cheems icons**, demonstrating how statistical visualization can be both analytical and engaging.
+
 [Live Demo](https://8bj51n-sullivan-santana0najera.shinyapps.io/my-r-project/)
 ---
 
