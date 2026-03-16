@@ -70,7 +70,8 @@ Alongside my professional work, I build **personal data science projects** to ex
 An interactive R/Shiny application that allows engineers and analysts to upload process data, visualize distributions, and calculate **process capability indices (Cp, Cpk)** used in quality control and manufacturing analysis.
 
 **CheemsPlot – Interactive Dog-Styled Boxplot Explorer**
-A playful R/Shiny visualization tool that replaces traditional boxplot outliers with **customizable Cheems icons**, demonstrating how statistical visualization can be both analytical and engaging.[Live Demo](https://8bj51n-sullivan-santana0najera.shinyapps.io/my-r-project/)
+A playful R/Shiny visualization tool that replaces traditional boxplot outliers with **customizable Cheems icons**, demonstrating how statistical visualization can be both analytical and engaging.
+[Live Demo](https://8bj51n-sullivan-santana0najera.shinyapps.io/my-r-project/)
 ---
 
 ## 🎓 Education
