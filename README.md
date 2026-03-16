@@ -100,9 +100,9 @@ Tecnológico Nacional de México
 
 📍 Location: Aguascalientes, Mexico
 
-💼 Portfolio: https://www.datascienceportfol.io/sullivansantana
-
 📧 Email: [sullivan.santana@gmail.com](mailto:sullivan.santana@gmail.com)
+
+🔗 LinkedIn: [sullivan santana](https://www.linkedin.com/in/ar-sullivan-santana-najera-758a14ab/)
 
 ---
 
