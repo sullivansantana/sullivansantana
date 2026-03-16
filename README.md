@@ -15,7 +15,7 @@ Currently working in **IT Metrics and Analytics**, where I design predictive mod
 | Data Science          | Python, R, Machine Learning, Predictive Modeling |
 | Data Analysis         | Pandas, NumPy, Statistical Analysis              |
 | Forecasting           | ARIMA, Prophet, Holt-Winters, XGBoost            |
-| Data Visualization    | Plotly, GGplot2, Matplotlib, Seaborn             |
+| Data Visualization    | Plotly, GGplot2, Matplotlib, Seaborn, holoviz, highcharts             |
 | Business Intelligence | Power BI, Power Query, Tableau                   |
 | Data Tools            | SQLite                                           |
 | IT Operations         | IT Service Metrics, ISO/IEC 20000, Process Compliance |
