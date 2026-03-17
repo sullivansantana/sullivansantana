@@ -46,7 +46,7 @@ Softtek | 2024 – Present
 
 ### Process Quality Leader
 
-Softtek | 2019 – 2021
+Softtek | 2019 – 2024
 
 * Developed **forecasting models (ARIMA, Prophet, Holt-Winters)** for DevOps ticket demand.
 * Built **Tableau dashboards** to analyze customer satisfaction trends.
@@ -88,10 +88,11 @@ Tecnológico Nacional de México
 
 ## 📜 Certifications
 
-* Kaggle – Intermediate Machine Learning
-* Kaggle – Pandas
-* Data Science with Python
-* Data Science with R
+* Kaggle – [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/sullivansantana/intermediate-machine-learning)
+* Kaggle – [Pandas](https://www.kaggle.com/learn/certification/sullivansantana/pandas)
+* Kaggle – [Data Visualization](https://www.kaggle.com/learn/certification/sullivansantana/data-visualization)
+* Simplilearn - Data Science with Python
+* Simplilearn - Data Science with R
 * ITIL v3 Foundation
 
 ---
