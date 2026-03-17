@@ -86,7 +86,7 @@ Tecnológico Nacional de México
 
 ---
 
-## 📜 Certifications
+## 📜 Courses and Certifications
 
 * Kaggle – [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/sullivansantana/intermediate-machine-learning)
 * Kaggle – [Pandas](https://www.kaggle.com/learn/certification/sullivansantana/pandas)
