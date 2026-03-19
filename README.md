@@ -67,12 +67,16 @@ Softtek | 2015 – 2019
 Alongside my professional work, I build **personal data science projects** to explore statistical modeling, machine learning, and interactive analytics.
 
 **Process Capability Analyzer (Shiny App)**
+
 An interactive R/Shiny application that allows engineers and analysts to upload process data, visualize distributions, and calculate **process capability indices (Cp, Cpk)** used in quality control and manufacturing analysis.
 
-**CheemsPlot – Interactive Dog-Styled Boxplot Explorer**
-A playful R/Shiny visualization tool that replaces traditional boxplot outliers with **customizable Cheems icons**, demonstrating how statistical visualization can be both analytical and engaging.
+- [Repository](https://github.com/sullivansantana/Process-Capability-Analyzer-Shiny-App-)
 
-[Live Demo](https://8bj51n-sullivan-santana0najera.shinyapps.io/my-r-project/)
+**CheemsPlot – Interactive Dog-Styled Boxplot Explorer**
+
+A playful R/Shiny visualization tool that replaces traditional boxplot outliers with **customizable Cheems icons**, demonstrating how statistical visualization can be both analytical and engaging. 
+
+- [Shiny App](https://8bj51n-sullivan-santana0najera.shinyapps.io/my-r-project/)
 ---
 
 ## 🎓 Education
