@@ -18,7 +18,7 @@ Currently working in **IT Metrics and Analytics**, where I design predictive mod
 | Data Visualization    | Plotly, GGplot2, Matplotlib, Seaborn, Holoviz, Highcharts             |
 | Business Intelligence | Power BI, Power Query, Tableau                   |
 | Data Tools            | SQLite                                           |
-| IT Operations         | IT Service Metrics, ISO/IEC 20000, Process Compliance |
+| IT Operations         | IT Service Metrics, ISO/IEC 20000, Process Compliance, ITSM, Service Desk |
 
 ---
 
