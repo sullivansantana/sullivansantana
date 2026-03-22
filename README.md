@@ -93,9 +93,14 @@ Tecnológico Nacional de México
 
 ## 📜 Courses and Certifications
 
+* Kaggle – [Intro to SQL](https://www.kaggle.com/learn/certification/sullivansantana/intro-to-sql)
+* Kaggle – [Intro to Machine Learning](https://www.kaggle.com/learn/certification/sullivansantana/intro-to-machine-learning)
 * Kaggle – [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/sullivansantana/intermediate-machine-learning)
 * Kaggle – [Pandas](https://www.kaggle.com/learn/certification/sullivansantana/pandas)
 * Kaggle – [Data Visualization](https://www.kaggle.com/learn/certification/sullivansantana/data-visualization)
+* Kaggle – [Time Series](https://www.kaggle.com/learn/certification/sullivansantana/time-series)
+* Kaggle – [Data Cleaning](https://www.kaggle.com/learn/certification/sullivansantana/data-cleaning)
+* Kaggle – [Feature Engineering](https://www.kaggle.com/learn/certification/sullivansantana/feature-engineering)
 * Simplilearn - [Data Science with Python](https://drive.google.com/file/d/1M1BJ6F5_VIwBEke5n3Pp1sgA9CbgwwSM/view?usp=drive_link)
 * Simplilearn - [Data Science with R](https://drive.google.com/file/d/1UdpRko9IkazSxVNfvpybxREqZgsJ2i6F/view?usp=drive_link)
 * Axelos - [ITIL v3 Foundation Certification](https://drive.google.com/file/d/1TxGEKLxgRTsNRZXsnFTOfN2lPx88tdFJ/view?usp=drive_link)
