@@ -38,7 +38,7 @@ Currently working in **IT Metrics and Analytics**, where I design predictive mod
 
 ### Data Analyst – IT Metrics Team
 
-Softtek | 2024 – Present
+Softtek | 2025 – Present
 
 * Built predictive models using **Prophet and XGBoost** to forecast database connection demand.
 * Developed a **Service Desk abandonment risk model** to detect high-risk customer cases.
